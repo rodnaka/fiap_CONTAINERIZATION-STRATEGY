@@ -1,0 +1,15 @@
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\bin\Debug\CargaCatalogo.exe.config
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\bin\Debug\CargaCatalogo.exe
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\bin\Debug\CargaCatalogo.pdb
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\bin\Debug\MongoDB.Bson.dll
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\bin\Debug\MongoDB.Driver.dll
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\bin\Debug\MongoDB.Bson.xml
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\bin\Debug\MongoDB.Driver.xml
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\obj\Debug\CargaCatalogo.csprojAssemblyReference.cache
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\obj\Debug\CargaCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\obj\Debug\CargaCatalogo.csproj.CopyComplete
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\obj\Debug\CargaCatalogo.exe
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\CargaCatalogo\obj\Debug\CargaCatalogo.pdb

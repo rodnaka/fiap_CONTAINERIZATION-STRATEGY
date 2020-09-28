@@ -1,0 +1,15 @@
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\bin\Debug\netcoreapp1.1\appsettings.Development.json
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\bin\Debug\netcoreapp1.1\appsettings.json
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\bin\Debug\netcoreapp1.1\Properties\launchSettings.json
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\bin\Debug\netcoreapp1.1\APICatalogo_NETCore.deps.json
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\bin\Debug\netcoreapp1.1\APICatalogo_NETCore.runtimeconfig.json
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\bin\Debug\netcoreapp1.1\APICatalogo_NETCore.runtimeconfig.dev.json
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\bin\Debug\netcoreapp1.1\APICatalogo_NETCore.dll
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\bin\Debug\netcoreapp1.1\APICatalogo_NETCore.pdb
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\obj\Debug\netcoreapp1.1\APICatalogo_NETCore.csprojAssemblyReference.cache
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\obj\Debug\netcoreapp1.1\APICatalogo_NETCore.AssemblyInfoInputs.cache
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\obj\Debug\netcoreapp1.1\APICatalogo_NETCore.AssemblyInfo.cs
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\obj\Debug\netcoreapp1.1\APICatalogo_NETCore.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\obj\Debug\netcoreapp1.1\APICatalogo_NETCore.dll
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\obj\Debug\netcoreapp1.1\APICatalogo_NETCore.pdb
+C:\Users\rodri\Downloads\MongoDB_NETCore_Full-master\MongoDB_NETCore_Full-master\Exemplos_MongoDB\APICatalogo_NETCore\obj\Debug\netcoreapp1.1\APICatalogo_NETCore.genruntimeconfig.cache
